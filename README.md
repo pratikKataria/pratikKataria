@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**pratikKataria/pratikKataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hello there! I am a skilled mobile app developer, proficient in creating top-notch and visually appealing applications for both Android and iOS platforms. With a passion for mobile technology and a track record of delivering high-quality apps, I am confident that I can help you bring your ideas to life. 🚀
+## Hello there! I am a skilled mobile app developer, proficient in creating top-notch and visually appealing applications for both Android and iOS platforms. With a passion for mobile technology and a track record of delivering high-quality apps, I am confident that I can help you bring your ideas to life. 🚀
 
 ### Skills and Expertise 💪
 * Strong knowledge of Java and Kotlin for Android app development 🤖
@@ -29,4 +27,4 @@ Hello there! I am a skilled mobile app developer, proficient in creating top-not
    
 ## Let's Get Started 🚀
 If you're looking for a mobile app developer who can bring your ideas to life, I would love to hear from you. Feel free to contact me to discuss your project and how I can help. I look forward to working with you! 🤗
--->
+
