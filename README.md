@@ -14,7 +14,7 @@
 
 
 ### Previous Work 🎯
-** I have worked on several projects, including:
+* I have worked on several projects, including:
    * A social media app that allows users to share their experiences and connect with like-minded people. 🤝
    * A food delivery app that enables users to order food from their favorite restaurants. 🍔
    * A fitness app that provides personalized workout plans and tracks progress. 💪
