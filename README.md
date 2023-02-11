@@ -19,7 +19,8 @@
    * A food delivery app that enables users to order food from their favorite restaurants. 🍔
    * A fitness app that provides personalized workout plans and tracks progress. 💪
    * A mobile game with engaging gameplay and challenging levels. 🕹️
-   * Why Choose Me? 🤔
+ 
+### Why Choose Me? 🤔
    * I have a strong attention to detail and a commitment to delivering high-quality work. 🔍
    * I am a fast learner and always willing to expand my skill set to meet the needs of your project. 📚
    * I have excellent communication skills and am always willing to collaborate with clients to ensure their needs are met. 💬
