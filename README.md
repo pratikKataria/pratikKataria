@@ -3,7 +3,7 @@
 ## Hello there! I am a skilled mobile app developer, proficient in creating top-notch and visually appealing applications for both Android and iOS platforms. With a passion for mobile technology and a track record of delivering high-quality apps, I am confident that I can help you bring your ideas to life. 🚀
 
 ### Skills and Expertise 💪
-* Strong knowledge of Java and Kotlin for Android app development 🤖
+* Strong knowledge of Dart, Flutter, Java and Kotlin for Android app development 🤖
 * Strong knowledge of Swift and Objective-C for iOS app development 🍎
 * Experience with React Native for cross-platform development 📱
 * Proficient in using modern mobile app development frameworks such as Flutter 💥
